@@ -33,7 +33,7 @@ Definitions
 
 Use
 ===
-Given an input corpus (dictionary), this generates n-char spoonerisms.
+Given an input corpus (dictionary), running   python spoon.py  generates n-char spoonerisms.
 More thorough semantic validation techniques will be added soon!
 all_spoons.txt is the output of spoons.py
 ------
